@@ -1,2 +1,3 @@
 # S3TagCheck
-used to fetch untagged S3 Buckets.
+
+This script checks for the S3buckets which dont have tags and sends email to the mentioned distro using AWS SES . 
